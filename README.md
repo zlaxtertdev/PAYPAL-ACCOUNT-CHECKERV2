@@ -22,14 +22,14 @@ Feature :<br />
 - Support All Email<br /></p>
 
 ## Install on desktop : 
-- Install XAMPP
-- Added environment variable system path => C:\xampp\php
+- Install Python 3 ++
+- Added environment variable system path => C:\Python3xx
 - download the script and save it in your folder
 - open CMD and running
 
 ## Install on android (Termux)
     $ pkg install git -y
-    $ pkg install php -y
+    $ pkg install python3 -y
     $ git clone https://github.com/zlaxtertdev/PAYPAL-ACCOUNT-CHECKERV2.git
     $ cd PAYPAL-ACCOUNT-CHECKERV2
     $ python pp.py
